@@ -47,7 +47,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-
 ### 🗄️ **Databases**
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,39 +60,8 @@
 ![Singularity](https://img.shields.io/badge/Singularity-FF9E0F?style=for-the-badge)
 
 💾 **Storage Solutions**  
-- Experience with **networked drive management**, including CIFS and WebDAV configurations for personal and work-related tasks.
----
-
-## 📈 **Notable Achievements**
-
-- 🎯 Reduced annual computing costs by **90%** and human workload by **60%** with automated bioinformatics pipelines.  
-- 🚀 Designed and built robust workflows for multi-omics analysis, supporting single-cell and bulk sequencing data.  
-- 🧠 Co-founded a digital well-being startup, developing **machine learning algorithms** for health monitoring.  
-- 🧬 Pioneered epigenetic data analysis and contributed to numerous high-impact clinical studies.  
-
----
-
-## 🎨 **Hobbies & Personal Projects**
-
-🌟 **Photo Editing**  
-- Skilled in using **ImageMagick** and **ExifTool** for advanced photo editing and metadata management.
-- Creates stunning **timelapses** using **FFmpeg**.  
-- Passionate about **astrophotography**, employing computational techniques to enhance images.  
-- Develops **photo spheres** using algorithmic approaches for seamless panoramas.
-
-🖥️ **Homelab Enthusiast**  
-- **Docker Compose** to deploy and manage services efficiently.  
-- Expertise in designing **network architecture** for optimized performance and security.
-
-🏠 **Smart Home Automation**  
-- **Home Assistant** instance for automation and monitoring.  
-- **Self-hosted cloud infrastructure**:  
-  - **frigate NVR** for video surveillance.  
-  - **Nextcloud** for private, secure data storage and sharing.
-  - **Grafana** for monitoring and visualizing data.
-  - **Pi-hole** for network-wide ad blocking.
-  - **nginx reverse proxy** for secure access to services.
-
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+- **Networked drive management**, including CIFS and WebDAV configurations.
 ---
 
 ## 🤝 **Let's Collaborate**
