@@ -86,8 +86,7 @@ I’m open to collaborating on exciting projects in:
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spribitzer&show_icons=true&count_private=true&hide=prs&theme=light&title_color=ffcc00&icon_color=ff5733&text_color=ffffff&bg_color=222222)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spribitzer&show_icons=true&count_private=true&hide=prs&theme=light)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=spribitzer&bg_color=222222&color=ff5733&line=ffcc00&point=ff5733&hide_border=true)
 
 
