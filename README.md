@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Stephan!  
-
-🔬 **Bioinformatics and Software Engineer** | 🧬 **Quantum Computing/BioPhysics PhD** | 💻 **Scientific Software Architect**  
+# 🔬 **Bioinformatics and Software Engineer** | 🧬 **Quantum Computing/BioPhysics PhD** | 💻 **Scientific Software Architect**  
 
 🌟 Welcome to my GitHub! I'm passionate about building efficient and scalable software solutions at the intersection of science, engineering, and innovation.
 
