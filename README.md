@@ -62,12 +62,6 @@
 - **Networked drive management**, including CIFS and WebDAV configurations.
 ---
 
-## 🤝 **Let's Collaborate**
-
-I’m open to collaborating on exciting projects in:  
-🔬 Bioinformatics | 🛠️ Workflow Automation | ☁️ HPC and Cloud Computing | 🌐 Web Application Development  
-
-
 <!-- 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=spribitzer&show_icons=true&count_private=true&hide=prs&theme=light)
 
